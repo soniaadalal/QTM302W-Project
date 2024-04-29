@@ -1,7 +1,7 @@
 # The Forced Return of Migrants: Violence
 Welcome to the QTM302W project repository! This repository contains all the materials related to our semester-long project on exploratory and rhetorical analysis of quantitative data.
 
-[![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/soniaadalal/QTM302W/main?urlpath=rstudio)
+[![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/soniaadalal/QTM302W-Project/main?urlpath=rstudio)
 
 ## Contributing Authors
 
