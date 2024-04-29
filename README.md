@@ -69,11 +69,15 @@ Feel free to explore the materials in this repository and replicate our analysis
 
 ## Directory Structure
 ```
-└── QTM302W_Project_Repository
+└── QTM302WProject
+  ├── Notebook/
+  │   └── EDA
   ├── data/
   │   └── data_replic.csv
-  ├── notebooks/
-  │   └── EDA_notebook.ipynb
+  ├── renv/
+  │   └── activate.R
+      └── renv.lock
+      └── settings.json
   └── README.md
 
 ```
