@@ -54,8 +54,8 @@ The repository includes code for generating various visualizations to analyze th
 To get started with the project, follow these steps:
 
 1. Clone this repository to your local machine.
-2. Navigate to the raw data being kept in files/dataset within this repository
-3. Run the notebook to reproduce the analysis that is being kepy in notebooks/EDA
+2. Navigate to the raw data being kept in data/data_replic,csv within this repository
+3. Run the notebook to reproduce the analysis that is being kepy in Notebook/edaprojectfinal.Rmd
 
 
 ###  EDA Code Notebook: 
@@ -71,13 +71,14 @@ Feel free to explore the materials in this repository and replicate our analysis
 ```
 └── QTM302WProject
   ├── Notebook/
-  │   └── EDA
+  │   └── edaprojectfinal.Rmd
   ├── data/
   │   └── data_replic.csv
+  │   └── data_USdeporttotal.csv
   ├── renv/
   │   └── activate.R
-      └── renv.lock
-      └── settings.json
+  │   └── renv.lock
+  │   └── settings.json
   └── README.md
 
 ```
